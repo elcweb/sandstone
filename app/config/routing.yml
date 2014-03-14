@@ -1,0 +1,4 @@
+elcweb_accounting:
+    resource: "@ElcwebAccountingBundle/Controller/"
+    type:     annotation
+    prefix:   /
